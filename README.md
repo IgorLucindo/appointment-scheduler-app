@@ -8,8 +8,8 @@ Mobile application for sheduling appointments.
 ...
 
 # To do Checklist
-- [x] User can create an appointment
-- [x] Calendar integration
-- [ ] Email notifications
-- [ ] Admin dashboard
-- [ ] Mobile responsiveness
+- ✅ User can create an appointment
+- ✅ Calendar integration
+- ❌ Email notifications
+- ❌ Admin dashboard
+- ❌ Mobile responsiveness
