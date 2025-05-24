@@ -8,8 +8,8 @@ Mobile application for sheduling appointments.
 ...
 
 # To do Checklist
-- ✅ User can create an appointment
-- ✅ Calendar integration
-- ❌ Email notifications
-- ❌ Admin dashboard
-- ❌ Mobile responsiveness
+- ✅ Placeholder
+- ❌ Generate dataset of images (using chat GPT prompts)
+- ❌ Do design generator (using dataset of images and using sharp)
+- ❌ Do scheduler using js
+- ❌ Do mobile app
