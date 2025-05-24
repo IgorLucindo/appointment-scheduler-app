@@ -1,5 +1,5 @@
 # Appointment Scheduler App
-Mobile application for sheduling appointments.
+Mobile application for sheduling appointments and suggesting generated posts.
 
 # Setup
 ...
