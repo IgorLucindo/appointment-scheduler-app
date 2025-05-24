@@ -5,11 +5,17 @@ Mobile application for sheduling appointments and suggesting generated posts.
 ...
 
 # Execution
-...
+SCRIPT VERSION
+
+Run the command:
+```
+node application/src/index.js
+```
 
 # To do Checklist
-- ✅ Placeholder
-- ❌ Generate dataset of images (using chat GPT prompts)
-- ❌ Do design generator (using dataset of images and using sharp)
-- ❌ Do scheduler using js
-- ❌ Do mobile app
+- ❌ Generate dataset of images (using chat GPT prompts).
+- ✅ Design generator.
+- ❌ Set different profiles for design diversification.
+- ❌ Include gradients and containers in profiles
+- ❌ Scheduler using js.
+- ❌ Mobile app.

@@ -1,1 +1,0 @@
-// generate design using sharp

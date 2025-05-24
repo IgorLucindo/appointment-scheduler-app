@@ -1,0 +1,16 @@
+[
+  {
+    "positions": {
+      "mainText": 1600,
+      "subText": 1680,
+      "brandText": 100
+    }
+  },
+  {
+    "positions": {
+      "mainText": 1500,
+      "subText": 1600,
+      "brandText": 120
+    }
+  }
+]
